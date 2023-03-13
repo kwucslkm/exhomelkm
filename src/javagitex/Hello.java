@@ -8,6 +8,11 @@ public class Hello {
 		System.out.println("mysecond");
 		System.out.println("mysecond");
 		System.out.println("mysecond");
+		System.out.println("third");
+		System.out.println("third");
+		System.out.println("third");
+		System.out.println("third");
+		
 		
 	}
 
